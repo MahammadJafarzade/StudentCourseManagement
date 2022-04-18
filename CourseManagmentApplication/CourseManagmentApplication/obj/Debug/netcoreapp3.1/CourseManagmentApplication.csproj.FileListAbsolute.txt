@@ -1,0 +1,30 @@
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.exe
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.deps.json
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.runtimeconfig.json
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.runtimeconfig.dev.json
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.dll
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.pdb
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.csproj.AssemblyReference.cache
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.AssemblyInfoInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.AssemblyInfo.cs
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.dll
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.pdb
+C:\Users\Orkhan\OneDrive\Desktop\New folder (5)\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.genruntimeconfig.cache
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.exe
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.deps.json
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.runtimeconfig.json
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.runtimeconfig.dev.json
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.dll
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\CourseManagmentApplication.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Outlook.dll
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.csproj.AssemblyReference.cache
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.AssemblyInfoInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.AssemblyInfo.cs
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.csproj.CopyComplete
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.dll
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Application\CourseManagmentApplication\CourseManagmentApplication\obj\Debug\netcoreapp3.1\CourseManagmentApplication.genruntimeconfig.cache

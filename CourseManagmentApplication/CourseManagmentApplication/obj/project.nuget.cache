@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+8krRS3sfczJGujQoY1h42h2ymbUejbchvEwSC4xEiKsbNaV3AqlkPs4AEj1rZ6fDeSPtbSTdgis1kfIhtL1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orkhan\\OneDrive\\Desktop\\Application\\CourseManagmentApplication\\CourseManagmentApplication\\CourseManagmentApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orkhan\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1003\\microsoft.office.interop.outlook.15.0.4797.1003.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Outlook 15.0.4797.1003' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Outlook",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
